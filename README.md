@@ -1,2 +1,2 @@
 # CDN
-www.jsdelivr.com加速资源
+www.jsdelivr.com 加速资源
