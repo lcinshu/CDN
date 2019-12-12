@@ -1,2 +1,3 @@
 # CDN
-www.jsdelivr.com 加速资源
+CDN加速静态资源访问，具体使用方法参见：[jsdelivr](www.jsdelivr.com)
+
